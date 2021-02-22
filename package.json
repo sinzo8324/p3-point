@@ -1,0 +1,21 @@
+{
+  "name": "p3-point",
+  "version": "1.0.0",
+  "description": "point for GX network",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "truffle test"
+  },
+  "author": "jhjeon1",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/test-helpers": "^0.5.5",
+    "caver-js": "^1.5.6",
+    "eth-gas-reporter": "^0.2.21",
+    "openzeppelin-solidity": "^2.5.0",
+    "solidity-coverage": "^0.7.5"
+  }
+}

@@ -1,0 +1,13 @@
+node_modules
+coverage
+build
+logs
+*.log
+npm-debug.log*
+coverage.json
+
+.env
+.DS_Store
+.vscode
+.secret
+.gxSecret
